@@ -15,7 +15,7 @@
         <module>cloud-provider-payment8001</module>
 
         <!-- 消费者，只有controller，用于调用8001端口功能 -->
-        <module>cloud-consumer-orded80</module>
+        <module>cloud-consumer-order80</module>
 
         <!-- 工程重构，提取出公用的部分 -->
         <module>cloud-api-commons</module>
